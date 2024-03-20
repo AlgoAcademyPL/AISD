@@ -1,9 +1,9 @@
 ---
-title: Title!
+title: Title! To są algorytmy i struktury danych !
 keywords: Seo slowa kluczowe
 ---
 
-# h1 Heading 8-)
+# Algo i struktury danych
 
 text text text texttext text text texttext text text texttext text text text
 text text text texttext text text texttext text text texttext text text text
